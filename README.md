@@ -10,23 +10,23 @@ The data used in this dashboard is sourced from [Our World in Data](https://ourw
 
 ## Dashboard Components
 
+All the data are recorded from **1/1/2020 to 30/4/2021**.
+
 ### 1. Global Numbers
 ![Global Numbers](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Global%20Numbers.jpg)
-- Visual representation of total confirmed cases, deaths, and recovery rates worldwide.
-- Time-series analysis showing the progression of cases and deaths over time.
+- Visual representation of total confirmed cases, deaths, and death rate worldwide during the above period.
 
 ### 2. Deaths Per Continent
 ![Deaths Per Continent](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Deaths%20Per%20Continent.jpg)
-- Interactive map displaying infection rates and death rates by country.
-- Detailed breakdown of key metrics for individual countries.
-- Comparison charts to compare the situation in different countries.
+- Comparative analysis of the number of deaths across different continents.
+- Highlighting continents with the highest and lowest figures.
 
 ### 3. Overall Infection Rate
 ![Overall Infection Rate](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Overall%20Infection%20Rate.jpg)
-- Comparative analysis of infection and death rates across different regions.
-- Highlighting regions with the highest and lowest rates.
+- Interactive map displaying infection rates by country.
+- Detailed breakdown of key metrics for individual countries including population, number of infected cases, and infection rate.
 
 ### 4. Forecasted Monthly Infection Rate
 ![Forecasted Monthly Infection Rate](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Predicted%20Monthly%20Infection%20Rate.jpg)
-- Predictive analysis and forecasting of future infection and death rates.
-- Trends analysis to identify emerging patterns and hotspots.
+- Analyzing current trends to identify patterns.
+- Predictive analysis and forecasting of future infection rates.
