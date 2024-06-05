@@ -10,7 +10,7 @@ The data used in this dashboard is sourced from [Our World in Data](https://ourw
 
 ## Dashboard Components
 
-All the data are recorded from **1/1/2020 to 30/4/2021**.
+### _All the data are recorded from 1/1/2020 to 30/4/2021._
 
 ### 1. Global Numbers
 ![Global Numbers](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Global%20Numbers.jpg)
