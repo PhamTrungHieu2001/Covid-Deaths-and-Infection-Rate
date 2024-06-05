@@ -11,7 +11,7 @@ The data used in this dashboard is sourced from [Our World in Data](https://ourw
 ## Dashboard Components
 
 ### 1. Global Numbers
-[Global Numbers](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Global%20Numbers.jpg)
+![Global Numbers](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Global%20Numbers.jpg)
 - Visual representation of total confirmed cases, deaths, and recovery rates worldwide.
 - Time-series analysis showing the progression of cases and deaths over time.
 
