@@ -1,6 +1,7 @@
 # Covid-Visualization
 For my visualisation and data story, please also checkout the [Tableau Public Viz](https://public.tableau.com/app/profile/hieu.pham7426/viz/Covid_17175180579100/COVID-19Cases).
-## Overview
+
+## Objective
 
 This Tableau dashboard provides visualizations and insights into the global COVID-19 infection and death rates. It aims to help users understand the spread and impact of the pandemic across different countries and regions.
 
