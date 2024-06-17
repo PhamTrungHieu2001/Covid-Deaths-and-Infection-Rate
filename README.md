@@ -11,7 +11,7 @@ The data used in this dashboard is sourced from [Our World in Data](https://ourw
 
 ## Dashboard Components
 
-### _All the data are recorded from <ins>1/1/2020 to 30/4/2021</ins>._
+_All the data are recorded from <ins>1/1/2020 to 30/4/2021</ins>._
 
 ### 1. Global Numbers
 ![Global Numbers](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Global%20Numbers.jpg)
