@@ -1,5 +1,5 @@
 # Covid-Visualization
-For my visualisation and data story, please also checkout the [Tableau Public Viz](https://public.tableau.com/app/profile/hieu.pham7426/viz/Covid_17175180579100/COVID-19Cases).
+For my interactive visualisations and data story, please also checkout the [Tableau Public Viz](https://public.tableau.com/app/profile/hieu.pham7426/viz/Covid_17175180579100/COVID-19Cases).
 
 ## Objective
 
