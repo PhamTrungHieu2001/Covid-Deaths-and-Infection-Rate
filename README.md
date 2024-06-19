@@ -15,19 +15,17 @@ _All the data are recorded from <ins>1/1/2020 to 30/4/2021</ins>._
 
 ### 1. Global Numbers
 ![Global Numbers](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Global%20Numbers.jpg)
-- Visual representation of total confirmed cases, deaths, and death rate worldwide during the above period.
+- From 1/1/2020 to 30/4/2021, there were over **150 million** COVID-19 cases worldwide and nearly **3.2 million** deaths recorded.
+- The global death rate during this period was **2.11%**.
 
 ### 2. Deaths Per Continent
 ![Deaths Per Continent](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Deaths%20Per%20Continent.jpg)
-- Comparative analysis of the number of deaths across different continents.
-- Highlighting continents with the highest and lowest figures.
+- **Europe** recorded the most deaths (over 1 million) while **Oceania** registered the least (about 1000)
 
 ### 3. Overall Infection Rate
 ![Overall Infection Rate](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Overall%20Infection%20Rate.jpg)
-- Interactive map displaying infection rates by country.
-- Detailed breakdown of key metrics for individual countries including population, number of infected cases, and infection rate.
+- Countries with the highest infection rates are mostly in **Europe** with **Andorra** recording the largest figure, at 17.125%.
 
 ### 4. Forecasted Monthly Infection Rate
 ![Forecasted Monthly Infection Rate](https://github.com/PhamTrungHieu2001/Covid-Visualization/blob/main/images/Predicted%20Monthly%20Infection%20Rate.jpg)
-- Analyzing current trends to identify patterns.
-- Predictive analysis and forecasting of future infection rates.
+- In the future, infection rates are expected to **increase** in all the following countries except **China**.
